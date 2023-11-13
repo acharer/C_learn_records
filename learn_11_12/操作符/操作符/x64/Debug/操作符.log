@@ -1,0 +1,12 @@
+﻿  test.c
+E:\LearnDevelopment\code\C_learn\learn_11_12\操作符\操作符\test.c(67,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+E:\LearnDevelopment\code\C_learn\learn_11_12\操作符\操作符\test.c(67,9): message : 请考虑在格式字符串中使用“%zd”
+E:\LearnDevelopment\code\C_learn\learn_11_12\操作符\操作符\test.c(68,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+E:\LearnDevelopment\code\C_learn\learn_11_12\操作符\操作符\test.c(68,9): message : 请考虑在格式字符串中使用“%zd”
+E:\LearnDevelopment\code\C_learn\learn_11_12\操作符\操作符\test.c(69,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“unsigned __int64”
+E:\LearnDevelopment\code\C_learn\learn_11_12\操作符\操作符\test.c(69,9): message : 请考虑在格式字符串中使用“%lld”
+E:\LearnDevelopment\code\C_learn\learn_11_12\操作符\操作符\test.c(69,9): message : 请考虑在格式字符串中使用“%Id”
+E:\LearnDevelopment\code\C_learn\learn_11_12\操作符\操作符\test.c(69,9): message : 请考虑在格式字符串中使用“%I64d”
+E:\LearnDevelopment\code\C_learn\learn_11_12\操作符\操作符\test.c(77,17): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+E:\LearnDevelopment\code\C_learn\learn_11_12\操作符\操作符\test.c(77,28): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+  操作符.vcxproj -> E:\LearnDevelopment\code\C_learn\learn_11_12\操作符\x64\Debug\操作符.exe
