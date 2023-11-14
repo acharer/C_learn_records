@@ -29,6 +29,7 @@ void test()
 	%f  打印float类型的数据
 	%lf 打印double类型的数据
 	%zu 打印sizeof的返回值
+	%p  以地址格式打印数据
 	*/
 
 	printf("'abcdef'/a\n");

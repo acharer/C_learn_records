@@ -34,7 +34,7 @@
 条件操作符(三目操作符)
 	exp1 ? exp2 : exp3
 逗号表达式
-	exp1，exp2，exp3...expn  
+	exp1，exp2，exp3...expn
 	//逗号表达式就是逗号隔开的一串表达式
 	//逗号表达式的特点是：从左向右依次计算，整个表达式的结果就是最后一个表达式的结果
 下标引用、函数调用和结构成员
@@ -49,7 +49,7 @@ int main()
 	//printf("%d\n", a);
 	//printf("%d\n", b);
 
- 	float a = 7 / 2.0;//除号两端都是整数时，执行整数除法，只要两端有一个浮点数就执行浮点数除法
+	float a = 7 / 2.0;//除号两端都是整数时，执行整数除法，只要两端有一个浮点数就执行浮点数除法
 	int b = 7 % 2;//取模操作符两端只能是整数
 
 	printf("%.2f\n", a);//.2f设置输出精度为两位小数
@@ -62,7 +62,7 @@ int main()
 	//printf("%d\n", sizeof(int));//4
 	//printf("%d\n", sizeof a);//4
 	//printf("%d\n", sizeof int);//报错
-	
+
 	int arr[10] = { 0 };
 	printf("%d\n", sizeof(arr));//40 计算的是整个数组的大小，单位是字节
 	printf("%d\n", sizeof(arr[0]));//4

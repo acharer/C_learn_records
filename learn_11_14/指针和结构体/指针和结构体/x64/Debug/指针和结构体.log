@@ -1,0 +1,8 @@
+﻿  test.c
+E:\LearnDevelopment\code\C_learn\learn_11_14\指针和结构体\指针和结构体\test.c(26,13): warning C4101: “p5”: 未引用的局部变量
+E:\LearnDevelopment\code\C_learn\learn_11_14\指针和结构体\指针和结构体\test.c(25,15): warning C4101: “p3”: 未引用的局部变量
+E:\LearnDevelopment\code\C_learn\learn_11_14\指针和结构体\指针和结构体\test.c(25,7): warning C4101: “p1”: 未引用的局部变量
+E:\LearnDevelopment\code\C_learn\learn_11_14\指针和结构体\指针和结构体\test.c(26,7): warning C4101: “p4”: 未引用的局部变量
+E:\LearnDevelopment\code\C_learn\learn_11_14\指针和结构体\指针和结构体\test.c(25,11): warning C4101: “p2”: 未引用的局部变量
+E:\LearnDevelopment\code\C_learn\learn_11_14\指针和结构体\指针和结构体\test.c(26,19): warning C4101: “p6”: 未引用的局部变量
+  指针和结构体.vcxproj -> E:\LearnDevelopment\code\C_learn\learn_11_14\指针和结构体\x64\Debug\指针和结构体.exe
