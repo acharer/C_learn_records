@@ -1,6 +1,7 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
-
+#include <windows.h>
+#include <string.h>
 int main()
 {
 	//int i = 1;
@@ -62,31 +63,90 @@ int main()
 	//	}
 	//}
 	//二分查找
+	//{
+	//	int n;
+	//	scanf("%d", &n);
+	//	int arr[] = { 0,2,5,6,9,11,15,18,22,32,47,52,61,87,93 };
+	//	int sz = sizeof(arr) / sizeof(arr[0]);
+	//	int low = 0;
+	//	int high = sz - 1;
+	//	int mid = (low + high) / 2;//这样写更好，low + (high-low)/2，不会因为low+high太大而越界
+	//	while (low <= high)
+	//	{
+	//		if (arr[mid] < n)
+	//		{
+	//			low = mid + 1;
+	//			mid = (low + high) / 2;
+	//		}
+	//		else if (arr[mid] > n)
+	//		{
+	//			high = mid - 1;
+	//			mid = (low + high) / 2;
+	//		}
+	//		else
+	//		{
+	//			printf("找到了，数组下标n=%d\n", mid);
+	//			break;
+	//		}
+	//	}
+	//	if (low > high)
+	//		printf("没找到");
+	//}
+//编写代码，演示多个字符从两端移动，向中间汇聚
+	//welcome to bit!!!!
+	//w################!
+	//we##############!!
+	//wel############!!!
+	//...
+	//welcome to bit!!!!
+	//{
+	//	char arr1[] = "welcome to bit!!!!";
+	//	char arr2[] = "##################";
+
+	//	int left = 0;
+	//	int right = strlen(arr1) - 1;
+
+	//	while (left <= right)
+	//	{
+	//		arr2[left] = arr1[left];
+	//		arr2[right] = arr1[right];
+
+	//		printf("%s\n", arr2);
+	//		Sleep(1000);
+	//		system("cls");//system是一个库函数，可以执行系统命令
+	//		left ++;
+	//		right --;
+	//	}
+	//	printf("%s\n", arr2);
+
+	//}
+//编写代码，模拟用户登录场景，并且只能登录三次（只允许输入三次密码，如果密码正确）
+//则提示登陆成功，如果三次均输入错误，则退出程序
+
+//比较两个字符串是否相等，不能使用==，而应该使用一个库函数：strcmp
+//如果返回值是0，表示两个字符串相等
 	{
-		int n;
-		scanf("%d", &n);
-		int arr[] = { 0,2,5,6,9,11,15,18,22,32,47,52,61,87,93 };
-		int sz = sizeof(arr) / sizeof(arr[0]);
-		int low = 0;
-		int high = sz - 1;
-		int mid = (low + high) / 2;
-		while (arr[mid] != n && (high != low))
+		char password[] = "password";
+		char input[20] = { 0 };
+		int i = 0;
+		int flag;
+		for (i = 0; i < 3; i++)
 		{
-			if (arr[mid] < n)
+			scanf("%s", input);
+			if (strcmp(password, input) == 0)
 			{
-				low = mid + 1;
-				mid = (low + high) / 2;
+				printf("登陆成功\n");
+				break;
 			}
-			else if (arr[mid] > n)
+			else
 			{
-				high = mid - 1;
-				mid = (low + high) / 2;
+				printf("输入错误\n");
 			}
 		}
-		if (arr[mid] == n)
-			printf("找到了，数组下标n=%d\n", mid);
-		else if (high == low)
-			printf("没找到");
+		if (i == 3)
+		{
+			printf("三次机会都未成功");
+		}
 	}
 	return 0;
 }

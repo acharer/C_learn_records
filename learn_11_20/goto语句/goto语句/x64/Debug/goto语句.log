@@ -1,0 +1,3 @@
+﻿  test.c
+E:\LearnDevelopment\code\C_learn\learn_11_20\goto语句\goto语句\test.c(30,6): warning C4013: “strcmp”未定义；假设外部返回 int
+  goto语句.vcxproj -> E:\LearnDevelopment\code\C_learn\learn_11_20\goto语句\x64\Debug\goto语句.exe
