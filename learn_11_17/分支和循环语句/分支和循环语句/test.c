@@ -21,7 +21,7 @@ int main()
 		i++;
 	}
 	printf("\n");
-	int day = 7;
+	int day = 1;
 	switch(day)
 	{
 	case 1:
