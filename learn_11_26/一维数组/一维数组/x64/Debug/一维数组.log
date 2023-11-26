@@ -1,0 +1,5 @@
+﻿  test.c
+E:\LearnDevelopment\code\C_learn\learn_11_26\一维数组\一维数组\test.c(10,9): warning C4101: “data2”: 未引用的局部变量
+E:\LearnDevelopment\code\C_learn\learn_11_26\一维数组\一维数组\test.c(8,7): warning C4101: “ch”: 未引用的局部变量
+E:\LearnDevelopment\code\C_learn\learn_11_26\一维数组\一维数组\test.c(9,9): warning C4101: “data1”: 未引用的局部变量
+  一维数组.vcxproj -> E:\LearnDevelopment\code\C_learn\learn_11_26\一维数组\x64\Debug\一维数组.exe

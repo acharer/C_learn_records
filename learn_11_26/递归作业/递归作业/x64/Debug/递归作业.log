@@ -1,0 +1,3 @@
+﻿  test.c
+E:\LearnDevelopment\code\C_learn\learn_11_26\递归作业\递归作业\test.c(82,12): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  递归作业.vcxproj -> E:\LearnDevelopment\code\C_learn\learn_11_26\递归作业\x64\Debug\递归作业.exe

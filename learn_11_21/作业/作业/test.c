@@ -49,7 +49,7 @@ void fuc_3(void)
 	int max = arr[0];
 	for ( i = 0; i < 10; i++)
 	{
-		if (arr[0] < arr[i])
+		if (max < arr[i])
 		{
 			max = arr[i];
 		}
@@ -66,11 +66,12 @@ void fuc_4(void)
 	{
 		for (j = 1; j <= i; j++)
 		{
-			printf(" %d*%d ", i, j);
-		}
+			printf(" %d*%d=%-2d\t",i, j, i * j);//%2d,打印两位，不够的用空格补上，右对齐
+		}									//%-2d,左对齐
 		printf("\n");
 	}
 }
+
 int main()
 {
 	
