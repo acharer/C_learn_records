@@ -1,0 +1,4 @@
+﻿  test.c
+E:\LearnDevelopment\code\C_learn\learn_11_27\二维数组\二维数组\test.c(6,6): warning C4101: “arr1”: 未引用的局部变量
+E:\LearnDevelopment\code\C_learn\learn_11_27\二维数组\二维数组\test.c(7,7): warning C4101: “str1”: 未引用的局部变量
+  二维数组.vcxproj -> E:\LearnDevelopment\code\C_learn\learn_11_27\二维数组\x64\Debug\二维数组.exe

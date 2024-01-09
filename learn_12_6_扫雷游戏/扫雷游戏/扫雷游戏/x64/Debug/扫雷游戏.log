@@ -1,0 +1,5 @@
+﻿  game.c
+E:\LearnDevelopment\code\C_learn\learn_12_6\扫雷游戏\扫雷游戏\game.c(45,11): warning C4013: “rand”未定义；假设外部返回 int
+  test.c
+  正在生成代码...
+  扫雷游戏.vcxproj -> E:\LearnDevelopment\code\C_learn\learn_12_6\扫雷游戏\x64\Debug\扫雷游戏.exe
