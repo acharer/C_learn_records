@@ -1,0 +1,7 @@
+﻿  contact.c
+E:\LearnDevelopment\code\C_learn\learn_2_21_通讯录练习\通讯录\通讯录\contact.c(51,11): warning C4098: “LoadContact”:“void”函数返回值
+E:\LearnDevelopment\code\C_learn\learn_2_21_通讯录练习\通讯录\通讯录\contact.c(270,33): warning C4028: 形参 1 与声明不同
+E:\LearnDevelopment\code\C_learn\learn_2_21_通讯录练习\通讯录\通讯录\contact.c(277,11): warning C4098: “SaveContact”:“void”函数返回值
+  test.c
+  正在生成代码...
+  文件通讯录.vcxproj -> E:\LearnDevelopment\code\C_learn\learn_2_28_文件通讯录\文件通讯录\x64\Debug\文件通讯录.exe

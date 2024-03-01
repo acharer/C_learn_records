@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "动态内存管理", "动态内存管理\动态内存管理.vcxproj", "{DC69C4DB-D966-4FC6-90EF-EEC41FD70F6E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC69C4DB-D966-4FC6-90EF-EEC41FD70F6E}.Debug|x64.ActiveCfg = Debug|x64
+		{DC69C4DB-D966-4FC6-90EF-EEC41FD70F6E}.Debug|x64.Build.0 = Debug|x64
+		{DC69C4DB-D966-4FC6-90EF-EEC41FD70F6E}.Debug|x86.ActiveCfg = Debug|Win32
+		{DC69C4DB-D966-4FC6-90EF-EEC41FD70F6E}.Debug|x86.Build.0 = Debug|Win32
+		{DC69C4DB-D966-4FC6-90EF-EEC41FD70F6E}.Release|x64.ActiveCfg = Release|x64
+		{DC69C4DB-D966-4FC6-90EF-EEC41FD70F6E}.Release|x64.Build.0 = Release|x64
+		{DC69C4DB-D966-4FC6-90EF-EEC41FD70F6E}.Release|x86.ActiveCfg = Release|Win32
+		{DC69C4DB-D966-4FC6-90EF-EEC41FD70F6E}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AD368A7B-F675-4949-90C2-E1D764187892}
+	EndGlobalSection
+EndGlobal

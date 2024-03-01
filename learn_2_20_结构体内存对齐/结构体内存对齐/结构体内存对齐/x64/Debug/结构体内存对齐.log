@@ -1,0 +1,14 @@
+﻿  test.c
+E:\LearnDevelopment\code\C_learn\learn_2_20_结构体内存对齐\结构体内存对齐\结构体内存对齐\test.c(79,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+E:\LearnDevelopment\code\C_learn\learn_2_20_结构体内存对齐\结构体内存对齐\结构体内存对齐\test.c(79,9): message : 请考虑在格式字符串中使用“%zd”
+E:\LearnDevelopment\code\C_learn\learn_2_20_结构体内存对齐\结构体内存对齐\结构体内存对齐\test.c(80,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+E:\LearnDevelopment\code\C_learn\learn_2_20_结构体内存对齐\结构体内存对齐\结构体内存对齐\test.c(80,9): message : 请考虑在格式字符串中使用“%zd”
+E:\LearnDevelopment\code\C_learn\learn_2_20_结构体内存对齐\结构体内存对齐\结构体内存对齐\test.c(81,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+E:\LearnDevelopment\code\C_learn\learn_2_20_结构体内存对齐\结构体内存对齐\结构体内存对齐\test.c(81,9): message : 请考虑在格式字符串中使用“%zd”
+E:\LearnDevelopment\code\C_learn\learn_2_20_结构体内存对齐\结构体内存对齐\结构体内存对齐\test.c(82,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+E:\LearnDevelopment\code\C_learn\learn_2_20_结构体内存对齐\结构体内存对齐\结构体内存对齐\test.c(82,9): message : 请考虑在格式字符串中使用“%zd”
+E:\LearnDevelopment\code\C_learn\learn_2_20_结构体内存对齐\结构体内存对齐\结构体内存对齐\test.c(83,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+E:\LearnDevelopment\code\C_learn\learn_2_20_结构体内存对齐\结构体内存对齐\结构体内存对齐\test.c(83,9): message : 请考虑在格式字符串中使用“%zd”
+E:\LearnDevelopment\code\C_learn\learn_2_20_结构体内存对齐\结构体内存对齐\结构体内存对齐\test.c(84,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+E:\LearnDevelopment\code\C_learn\learn_2_20_结构体内存对齐\结构体内存对齐\结构体内存对齐\test.c(84,9): message : 请考虑在格式字符串中使用“%zd”
+  结构体内存对齐.vcxproj -> E:\LearnDevelopment\code\C_learn\learn_2_20_结构体内存对齐\结构体内存对齐\x64\Debug\结构体内存对齐.exe

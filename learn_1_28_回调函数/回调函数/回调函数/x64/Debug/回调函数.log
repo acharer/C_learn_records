@@ -1,0 +1,4 @@
+﻿  test.c
+E:\LearnDevelopment\code\C_learn\learn_1_28_回调函数\回调函数\回调函数\test.c(143,14): warning C4133: “函数”: 从“Stu [3]”到“int *”的类型不兼容
+E:\LearnDevelopment\code\C_learn\learn_1_28_回调函数\回调函数\回调函数\test.c(143,21): warning C4020: “bubble_sort”: 实参太多
+  回调函数.vcxproj -> E:\LearnDevelopment\code\C_learn\learn_1_28_回调函数\回调函数\x64\Debug\回调函数.exe

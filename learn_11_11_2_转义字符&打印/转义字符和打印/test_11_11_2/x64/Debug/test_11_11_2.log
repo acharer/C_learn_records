@@ -1,6 +1,5 @@
 ﻿  test.c
-E:\LearnDevelopment\code\C_learn\learn_11_11_2\test_11_11_2\test_11_11_2\test.c(36,9): warning C4477: “printf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“int *”
-E:\LearnDevelopment\code\C_learn\learn_11_11_2\test_11_11_2\test_11_11_2\test.c(40,12): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
-E:\LearnDevelopment\code\C_learn\learn_11_11_2\test_11_11_2\test_11_11_2\test.c(41,17): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
-E:\LearnDevelopment\code\C_learn\learn_11_11_2\test_11_11_2\test_11_11_2\test.c(42,17): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
-  test_11_11_2.vcxproj -> E:\LearnDevelopment\code\C_learn\learn_11_11_2\test_11_11_2\x64\Debug\test_11_11_2.exe
+E:\LearnDevelopment\code\C_learn\learn_11_11_2_转义字符&打印\转义字符和打印\test_11_11_2\test.c(45,12): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+E:\LearnDevelopment\code\C_learn\learn_11_11_2_转义字符&打印\转义字符和打印\test_11_11_2\test.c(46,17): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+E:\LearnDevelopment\code\C_learn\learn_11_11_2_转义字符&打印\转义字符和打印\test_11_11_2\test.c(47,17): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  test_11_11_2.vcxproj -> E:\LearnDevelopment\code\C_learn\learn_11_11_2_转义字符&打印\转义字符和打印\x64\Debug\test_11_11_2.exe

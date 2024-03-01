@@ -1,0 +1,5 @@
+﻿  test.c
+E:\LearnDevelopment\code\C_learn\learn_2_23_动态内存管理\动态内存管理2\动态内存管理2\test.c(39,18): warning C4013: “strerror”未定义；假设外部返回 int
+E:\LearnDevelopment\code\C_learn\learn_2_23_动态内存管理\动态内存管理2\动态内存管理2\test.c(39,10): warning C4477: “printf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“int”
+E:\LearnDevelopment\code\C_learn\learn_2_23_动态内存管理\动态内存管理2\动态内存管理2\test.c(39,10): warning C4313: "printf": 格式字符串中的 "%s" 与类型为 "int" 的参数 1 冲突
+  动态内存管理2.vcxproj -> E:\LearnDevelopment\code\C_learn\learn_2_23_动态内存管理\动态内存管理2\x64\Debug\动态内存管理2.exe

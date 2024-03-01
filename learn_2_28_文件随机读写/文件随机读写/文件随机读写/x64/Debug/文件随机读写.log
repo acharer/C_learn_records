@@ -1,0 +1,3 @@
+﻿  test.c
+E:\LearnDevelopment\code\C_learn\learn_2_28_文件随机读写\文件随机读写\文件随机读写\test.c(32,5): warning C4553: “==”: 未使用表达式结果；是否打算使用“=”?
+  文件随机读写.vcxproj -> E:\LearnDevelopment\code\C_learn\learn_2_28_文件随机读写\文件随机读写\x64\Debug\文件随机读写.exe

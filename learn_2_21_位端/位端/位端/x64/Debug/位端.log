@@ -1,0 +1,5 @@
+﻿  test.c
+E:\LearnDevelopment\code\C_learn\learn_2_21_位端\位端\位端\test.c(39,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+E:\LearnDevelopment\code\C_learn\learn_2_21_位端\位端\位端\test.c(39,9): message : 请考虑在格式字符串中使用“%zd”
+E:\LearnDevelopment\code\C_learn\learn_2_21_位端\位端\位端\test.c(51,9): warning C4477: “printf”: 格式字符串“%6x”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“S”
+  位端.vcxproj -> E:\LearnDevelopment\code\C_learn\learn_2_21_位端\位端\x64\Debug\位端.exe

@@ -1,0 +1,14 @@
+﻿  test.c
+E:\LearnDevelopment\code\C_learn\learn_2_29_作业\ofsetof\ofsetof\test.c(18,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+E:\LearnDevelopment\code\C_learn\learn_2_29_作业\ofsetof\ofsetof\test.c(18,9): message : 请考虑在格式字符串中使用“%zd”
+E:\LearnDevelopment\code\C_learn\learn_2_29_作业\ofsetof\ofsetof\test.c(19,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+E:\LearnDevelopment\code\C_learn\learn_2_29_作业\ofsetof\ofsetof\test.c(19,9): message : 请考虑在格式字符串中使用“%zd”
+E:\LearnDevelopment\code\C_learn\learn_2_29_作业\ofsetof\ofsetof\test.c(20,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+E:\LearnDevelopment\code\C_learn\learn_2_29_作业\ofsetof\ofsetof\test.c(20,9): message : 请考虑在格式字符串中使用“%zd”
+E:\LearnDevelopment\code\C_learn\learn_2_29_作业\ofsetof\ofsetof\test.c(22,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+E:\LearnDevelopment\code\C_learn\learn_2_29_作业\ofsetof\ofsetof\test.c(22,9): message : 请考虑在格式字符串中使用“%zd”
+E:\LearnDevelopment\code\C_learn\learn_2_29_作业\ofsetof\ofsetof\test.c(23,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+E:\LearnDevelopment\code\C_learn\learn_2_29_作业\ofsetof\ofsetof\test.c(23,9): message : 请考虑在格式字符串中使用“%zd”
+E:\LearnDevelopment\code\C_learn\learn_2_29_作业\ofsetof\ofsetof\test.c(24,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+E:\LearnDevelopment\code\C_learn\learn_2_29_作业\ofsetof\ofsetof\test.c(24,9): message : 请考虑在格式字符串中使用“%zd”
+  ofsetof.vcxproj -> E:\LearnDevelopment\code\C_learn\learn_2_29_作业\ofsetof\x64\Debug\ofsetof.exe

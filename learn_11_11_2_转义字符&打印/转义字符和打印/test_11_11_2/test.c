@@ -62,6 +62,7 @@ int main()
 	enum Color c = GREEN;
 	printf("c=%d\n", c);//枚举实际上是整数形式存在的，默认从0开始
 	
+
 	//test();
 	return 0;
 }

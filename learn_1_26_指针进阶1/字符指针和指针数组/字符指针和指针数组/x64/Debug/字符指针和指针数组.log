@@ -1,0 +1,8 @@
+﻿  test.c
+E:\LearnDevelopment\code\C_learn\learn_1_26_指针进阶1\字符指针和指针数组\字符指针和指针数组\test.c(23,9): warning C4473: “printf”: 没有为格式字符串传递足够的参数
+E:\LearnDevelopment\code\C_learn\learn_1_26_指针进阶1\字符指针和指针数组\字符指针和指针数组\test.c(23,9): message : 占位符和其参数预计 1 可变参数，但提供的却是 0 参数
+E:\LearnDevelopment\code\C_learn\learn_1_26_指针进阶1\字符指针和指针数组\字符指针和指针数组\test.c(23,9): message : 缺失的可变参数 1 为格式字符串“%p”所需
+E:\LearnDevelopment\code\C_learn\learn_1_26_指针进阶1\字符指针和指针数组\字符指针和指针数组\test.c(24,9): warning C4473: “printf”: 没有为格式字符串传递足够的参数
+E:\LearnDevelopment\code\C_learn\learn_1_26_指针进阶1\字符指针和指针数组\字符指针和指针数组\test.c(24,9): message : 占位符和其参数预计 1 可变参数，但提供的却是 0 参数
+E:\LearnDevelopment\code\C_learn\learn_1_26_指针进阶1\字符指针和指针数组\字符指针和指针数组\test.c(24,9): message : 缺失的可变参数 1 为格式字符串“%p”所需
+  字符指针和指针数组.vcxproj -> E:\LearnDevelopment\code\C_learn\learn_1_26_指针进阶1\字符指针和指针数组\x64\Debug\字符指针和指针数组.exe
